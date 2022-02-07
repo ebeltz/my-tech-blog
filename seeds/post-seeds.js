@@ -1,19 +1,19 @@
 const { Post } = require('../models');
 
 const postData = [{
-        title: 'Lorem Ipsum I',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        title: 'Olympics Day 1',
+        content: 'The US team figure skating started off great! We won the mens short program and the ice dance short program!',
         user_id: 1
 
     },
     {
-        title: 'Lorem Ipsum II',
-        content: 'Amet aliquam id diam maecenas ultricies mi eget mauris pharetra.',
+        title: 'Olympics Day 2',
+        content: 'Curling was awesome to watch. The mixed doubles is very interesting to watch.',
         user_id: 2
     },
     {
-        title: 'Lorem Ipsum III',
-        content: 'Ut etiam sit amet nisl purus in mollis.',
+        title: 'Olympics Day 3',
+        content: 'It would be interesting to learn about the technology that the Olympics use',
         user_id: 3
     }
 ];
