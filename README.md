@@ -1,7 +1,7 @@
 # My Tech Blog
 
 ## My Tech Blog
-To create this employee tracker, I first started by creating my database and setting the specific parameters for my employee name, title, manager, salary, department, and role in the schema.sql file. After creating the specific parameters, I then moved on to the seeds.sql file and created all of my pre-populated data using players, coaches, and front office names from the NFL. Once I finished pre-populating data for my database, I started on pulling all of that data together in the server.js file. I started with creating the views for all of the employee list. Then I moved on to adding, updating, deleting, and the view for the budget for the department. I had to do a little bit of troubleshooting at first to get the data to show up when I typed in node server.js to start the application in the terminal. 
+My Tech Blog uses MVC (Model-View-Controller) to create a blog-type website where users can post blog posts, add comments, edit posts, and comment on other user's posts. This blog uses handlebars.js to create the views.
 
 ## Screenshots
 ![Screenshot #1](https://github.com/ebeltz/my-tech-blog/blob/main/public/images/screenshot1.png)
@@ -13,12 +13,11 @@ To create this employee tracker, I first started by creating my database and set
 * Node.js
 * Express.js
 * mySQL2
-* Inquirer
-* Console Table
 * Promise mySQL
+* Handlebars.js
 
 ## Deployed Link
-
+https://my-tech-blog-22.herokuapp.com
 
 ## Contribution
 My Tech Blog created by Elizabeth B
