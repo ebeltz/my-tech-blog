@@ -13,3 +13,8 @@ h1, h2, h3, h5, h6 {
     color: black;
     line-height: 1.25;
 }
+
+/* #content {
+    min-width: 40%;
+    min-height: 100px;
+} */
